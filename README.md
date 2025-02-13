@@ -1,14 +1,8 @@
-# FrameCode
-=======
 # 🚀 FrameCode – The Ultimate Code Snapshot Tool  
 
 Transform your code into **aesthetic, shareable snapshots** effortlessly! FrameCode is a powerful and lightweight tool inspired by Ray.so, designed to **elevate** your code-sharing experience.  
 
 🔗 **Live Demo:** [Coming Soon]  
-
-![FrameCode Banner]
-
----
 
 ## 🌟 Features  
 
